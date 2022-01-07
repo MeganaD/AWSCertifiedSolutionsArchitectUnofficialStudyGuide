@@ -17,7 +17,7 @@
 ## 기본적인 시험 정보
 - [시험 안내서](https://d1.awsstatic.com/ko_KR/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf): 많은 분들이 제대로 읽어보시지 않으시는데 수험 준비를 위해 대단히 중요한 문서이므로 꼼꼼히 읽어 두셔야 합니다. 이 문서는 이 시험 안내서에 기반하여 작성되었습니다.
 - [시험 안내 페이지](https://aws.amazon.com/ko/certification/certified-solutions-architect-associate/)
-- [시험 신청](https://www.webassessor.com/wa.do?page=publicHome&branding=AMAZON)
+- [시험 신청](https://www.aws.training/certification)
 - [AWS기반 아키텍처 설계](https://aws.amazon.com/ko/training/course-descriptions/architect/): 3일동안 강의와 실습으로 진행되는 수업이며 이 수업에서 다루는 내용이 바로 AWS 솔루션스 아키텍트 자격증시험의 출제 범위가 됩니다.
 - [무료 온라인 시험 워크숍](https://www.aws.training/Details/Video?id=47561): 
 - [샘플문항(SAA-c02)](https://d1.awsstatic.com/ko_KR/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Sample-Questions.pdf): 시험 신청 전에 꼭 풀어보시기 바랍니다. 
